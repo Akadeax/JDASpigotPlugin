@@ -12,6 +12,7 @@ public abstract class JDAEventListener<T extends GenericEvent> implements EventL
         this.type = type;
     }
 
+    @SuppressWarnings("unchecked")
     @Override
     public final void onEvent(@Nonnull GenericEvent event) {
         if(type.isInstance(event)) {

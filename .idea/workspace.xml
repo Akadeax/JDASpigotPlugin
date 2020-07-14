@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0be37ad7-fc0d-470c-81e0-b5cc7c256dd2" name="Default Changelist" comment="" />
+    <list default="true" id="0be37ad7-fc0d-470c-81e0-b5cc7c256dd2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/akadeax/jdaspigotplugin/JDAEventListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/akadeax/jdaspigotplugin/JDAEventListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/JDASpigotPlugin-1.0-shaded.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/JDASpigotPlugin-1.0-shaded.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/JDASpigotPlugin-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/JDASpigotPlugin-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/original-JDASpigotPlugin-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/original-JDASpigotPlugin-1.0.jar" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +21,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -24,6 +34,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1efxrq8ocbEwWoRctET23foZQdk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -33,6 +44,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="JDASpigotPlugin build" type="MavenRunConfiguration" factoryName="Maven">
@@ -80,21 +92,21 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="223" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594728007823" />
-    <state width="1877" height="261" key="GridCell.Tab.0.bottom" timestamp="1594728537824">
+    <state width="1877" height="261" key="GridCell.Tab.0.bottom" timestamp="1594730408987">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594728537824" />
-    <state width="1877" height="261" key="GridCell.Tab.0.center" timestamp="1594728537823">
+    <state width="1877" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594730408987" />
+    <state width="1877" height="261" key="GridCell.Tab.0.center" timestamp="1594730408987">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="261" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594728537823" />
-    <state width="1877" height="261" key="GridCell.Tab.0.left" timestamp="1594728537823">
+    <state width="1877" height="261" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594730408987" />
+    <state width="1877" height="261" key="GridCell.Tab.0.left" timestamp="1594730408987">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="261" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594728537823" />
-    <state width="1877" height="261" key="GridCell.Tab.0.right" timestamp="1594728537824">
+    <state width="1877" height="261" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594730408987" />
+    <state width="1877" height="261" key="GridCell.Tab.0.right" timestamp="1594730408987">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="261" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594728537824" />
+    <state width="1877" height="261" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594730408987" />
   </component>
 </project>

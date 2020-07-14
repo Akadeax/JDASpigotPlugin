@@ -40,8 +40,6 @@ public abstract class JDASpigotPlugin extends JavaPlugin implements EventListene
         } catch (LoginException e) {
             System.out.println("Could not log into Discord!");
         }
-
-        registerDiscordEvents(this);
     }
 
     protected abstract void enable(PluginManager pm);

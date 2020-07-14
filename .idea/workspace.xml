@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0be37ad7-fc0d-470c-81e0-b5cc7c256dd2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/akadeax/jdaspigotplugin/JDAEventListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/akadeax/jdaspigotplugin/JDAEventListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/JDASpigotPlugin-1.0-shaded.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/JDASpigotPlugin-1.0-shaded.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/JDASpigotPlugin-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/JDASpigotPlugin-1.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/original-JDASpigotPlugin-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/original-JDASpigotPlugin-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/akadeax/jdaspigotplugin/JDASpigotPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/akadeax/jdaspigotplugin/JDASpigotPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/akadeax/jdaspigotplugin/JDAEventListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/me/akadeax/jdaspigotplugin/JDAEventListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +43,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="JDASpigotPlugin build" type="MavenRunConfiguration" factoryName="Maven">
@@ -85,28 +84,48 @@
       <option name="presentableId" value="Default" />
       <updated>1594726649028</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added Event Listener">
+      <created>1594730424190</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594730424190</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Event Listener" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Event Listener" />
   </component>
   <component name="WindowStateProjectService">
     <state x="765" y="223" key="#com.intellij.ide.util.MemberChooser" timestamp="1594728007823">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="223" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594728007823" />
-    <state width="1877" height="261" key="GridCell.Tab.0.bottom" timestamp="1594730408987">
+    <state x="559" y="26" key="CommitChangelistDialog2" timestamp="1594730421087">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594730408987" />
-    <state width="1877" height="261" key="GridCell.Tab.0.center" timestamp="1594730408987">
+    <state x="559" y="26" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594730421087" />
+    <state width="1877" height="128" key="GridCell.Tab.0.bottom" timestamp="1594746192474">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="261" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594730408987" />
-    <state width="1877" height="261" key="GridCell.Tab.0.left" timestamp="1594730408987">
+    <state width="1877" height="128" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594746192474" />
+    <state width="1877" height="128" key="GridCell.Tab.0.center" timestamp="1594746192474">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="261" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594730408987" />
-    <state width="1877" height="261" key="GridCell.Tab.0.right" timestamp="1594730408987">
+    <state width="1877" height="128" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594746192474" />
+    <state width="1877" height="128" key="GridCell.Tab.0.left" timestamp="1594746192474">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="261" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594730408987" />
+    <state width="1877" height="128" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594746192474" />
+    <state width="1877" height="128" key="GridCell.Tab.0.right" timestamp="1594746192474">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="128" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594746192474" />
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1594730424804">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594730424804" />
   </component>
 </project>

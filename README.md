@@ -13,6 +13,6 @@ add this to your pom.xml:
 <dependency>
     <groupId>com.github.Akadeax</groupId>
     <artifactId>JDASpigotPlugin</artifactId>
-    <version>ea5da409f5</version>
+    <version>73f76f4556</version>
 </dependency>
 ...

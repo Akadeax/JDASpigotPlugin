@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0be37ad7-fc0d-470c-81e0-b5cc7c256dd2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/akadeax/jdaspigotplugin/JDASpigotPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/akadeax/jdaspigotplugin/JDASpigotPlugin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/me/akadeax/jdaspigotplugin/JDAEventListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/me/akadeax/jdaspigotplugin/JDAEventListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/akadeax/jdaspigotplugin/JDASpigotPlugin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/me/akadeax/jdaspigotplugin/JDASpigotPlugin.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,41 +89,49 @@
       <option name="project" value="LOCAL" />
       <updated>1594730424190</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fix">
+      <created>1594747349866</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594747349866</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Event Listener" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Event Listener" />
+    <MESSAGE value="Fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix" />
   </component>
   <component name="WindowStateProjectService">
     <state x="765" y="223" key="#com.intellij.ide.util.MemberChooser" timestamp="1594728007823">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="223" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594728007823" />
-    <state x="559" y="26" key="CommitChangelistDialog2" timestamp="1594730421087">
+    <state x="559" y="26" key="CommitChangelistDialog2" timestamp="1594747347786">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="559" y="26" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594730421087" />
-    <state width="1877" height="128" key="GridCell.Tab.0.bottom" timestamp="1594746192474">
+    <state x="559" y="26" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594747347786" />
+    <state width="1877" height="128" key="GridCell.Tab.0.bottom" timestamp="1594750167351">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="128" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594746192474" />
-    <state width="1877" height="128" key="GridCell.Tab.0.center" timestamp="1594746192474">
+    <state width="1877" height="128" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594750167351" />
+    <state width="1877" height="128" key="GridCell.Tab.0.center" timestamp="1594750167351">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="128" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594746192474" />
-    <state width="1877" height="128" key="GridCell.Tab.0.left" timestamp="1594746192474">
+    <state width="1877" height="128" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594750167351" />
+    <state width="1877" height="128" key="GridCell.Tab.0.left" timestamp="1594750167351">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="128" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594746192474" />
-    <state width="1877" height="128" key="GridCell.Tab.0.right" timestamp="1594746192474">
+    <state width="1877" height="128" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594750167351" />
+    <state width="1877" height="128" key="GridCell.Tab.0.right" timestamp="1594750167351">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="128" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594746192474" />
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1594730424804">
+    <state width="1877" height="128" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594750167351" />
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1594747352465">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594730424804" />
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594747352465" />
   </component>
 </project>

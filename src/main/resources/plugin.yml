@@ -1,0 +1,4 @@
+name: JDASpigotPlugin
+version: ${project.version}
+main: me.akadeax.jdaspigotplugin.JDASpigotPlugin
+api-version: 1.13

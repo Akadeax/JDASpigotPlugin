@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0be37ad7-fc0d-470c-81e0-b5cc7c256dd2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/me/akadeax/jdaspigotplugin/JDASpigotPlugin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/me/akadeax/jdaspigotplugin/JDASpigotPlugin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/akadeax/jdaspigotplugin/JDASpigotPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/akadeax/jdaspigotplugin/JDASpigotPlugin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

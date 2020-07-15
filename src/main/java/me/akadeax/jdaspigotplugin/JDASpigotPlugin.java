@@ -6,6 +6,7 @@ import net.dv8tion.jda.api.entities.Activity;
 import net.dv8tion.jda.api.events.GenericEvent;
 import net.dv8tion.jda.api.events.ReadyEvent;
 import net.dv8tion.jda.api.hooks.EventListener;
+import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.java.JavaPlugin;
 import org.jetbrains.annotations.NotNull;
@@ -32,8 +33,11 @@ public abstract class JDASpigotPlugin extends JavaPlugin implements EventListene
 
     @Override
     public final void onEnable() {
+        setupConfig(getConfig());
+
+        String token = getToken();
         try {
-            jda = JDABuilder.createDefault(getToken())
+            jda = JDABuilder.createDefault(token)
                     .setActivity(Activity.watching("You"))
                     .addEventListeners(this)
                     .build();
@@ -50,4 +54,6 @@ public abstract class JDASpigotPlugin extends JavaPlugin implements EventListene
             enable(getServer().getPluginManager());
         }
     }
+
+    public void setupConfig(FileConfiguration config) { }
 }

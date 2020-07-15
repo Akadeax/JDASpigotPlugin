@@ -1,4 +1,5 @@
-# JDAJavaPlugin
+# JDAJavaPlugin [![](https://jitpack.io/v/Akadeax/JDASpigotPlugin.svg)](https://jitpack.io/#Akadeax/JDASpigotPlugin)
+
 A spigot plugin wrapper around [JDA](https://awesomeopensource.com/project/DV8FromTheWorld/JDA), allowing a server to run the defined plugin and a discord bot a the same time, allowing interaction between the two.
 
 ## How do I use it?

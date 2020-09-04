@@ -17,3 +17,5 @@ add this to your pom.xml:
     <version>73f76f4556</version>
 </dependency>
 ...
+```
+and just make your plugin extend `JDASpigotPlugin` instead of `JavaPlugin`. Done!

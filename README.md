@@ -19,3 +19,30 @@ add this to your pom.xml:
 ...
 ```
 and just make your plugin extend `JDASpigotPlugin` instead of `JavaPlugin`. Done!
+
+Ex.:
+
+```java
+public final class JDASpigotExample extends JDASpigotPlugin {
+
+    @Override
+    protected String getToken() {
+        return "DISCORD BOT TOKEN";
+    }
+
+    @Override
+    protected void enable(PluginManager pm) {
+        ...
+    }
+
+    @Override
+    public void onDisable() {
+        ...
+    }
+
+    public JDA jda() {
+        return getJda();
+    }
+}
+
+```
